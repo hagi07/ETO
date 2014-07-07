@@ -1,0 +1,12 @@
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\bin\Debug\ETO.exe.config
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\bin\Debug\ETO.exe
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\bin\Debug\ETO.pdb
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.csprojResolveAssemblyReference.cache
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.Fondo.resources
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.Properties.Resources.resources
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.csproj.GenerateResource.Cache
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.exe
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.pdb
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.Main.resources
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.Inscripciones.resources
+C:\Users\Hagi\Google Drive\Trabajo\ETO\ETO\ETO\obj\Debug\ETO.Alumnos.resources
