@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ETO.exe" size="1954304">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ETO.exe" size="1992704">
       <assemblyIdentity name="ETO" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>N5ee0n2tuSYV/jMUyDK9eSgv7TU=</dsig:DigestValue>
+        <dsig:DigestValue>4Cyd7PaNMIHMJr3kbixUWfronL0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

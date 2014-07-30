@@ -98,6 +98,12 @@
     <Compile Include="03 Alumnos.Designer.cs">
       <DependentUpon>03 Alumnos.cs</DependentUpon>
     </Compile>
+    <Compile Include="04 InformacionExalumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="04 InformacionExalumnos.Designer.cs">
+      <DependentUpon>04 InformacionExalumnos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="00 Main.resx">
@@ -111,6 +117,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="03 Alumnos.resx">
       <DependentUpon>03 Alumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="04 InformacionExalumnos.resx">
+      <DependentUpon>04 InformacionExalumnos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
